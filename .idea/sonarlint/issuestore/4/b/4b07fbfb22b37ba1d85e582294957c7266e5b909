@@ -1,0 +1,31 @@
+
+K
+java:S3740"/Provide the parametrized type for this generic.(çòı8³¹ˆòú1
+£
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "response".(»ëÔÑ8¶±üìú1J$0199424f-6678-4283-9e97-aa6ed93effb2
+¨
+java:S1488#"`Immediately return this expression instead of assigning it to the temporary variable "response".(ÿ…¼«ÿÿÿÿÿ8¶±üìú1J$d6c8a3cf-e53b-454b-98b1-30013298203e
+¢
+java:S14887"`Immediately return this expression instead of assigning it to the temporary variable "response".(»€“V8¶±üìú1J$a89664d6-743f-4c89-875d-f61bcf6e8f67
+¢
+java:S1488?"`Immediately return this expression instead of assigning it to the temporary variable "response".(»€“V8¶±üìú1J$82e8b15d-2ea5-46ea-8957-8537a6f24171
+¢
+java:S1488G"`Immediately return this expression instead of assigning it to the temporary variable "response".(»€“V8¶±üìú1J$5452c2f7-cc4d-4016-a59b-88521ac80498
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¹±üìú1J$d0505ecd-082a-4c40-85dd-304a01a4a775
+d
+java:S2326"T is not used in the method.(øÂÿ¢ıÿÿÿÿ8½±üìú1J$d8c295a6-79bd-48dd-9d76-6ac45b851b7e
+d
+java:S2326""T is not used in the method.(ˆä¸¯üÿÿÿÿ8¾±üìú1J$c7aa5dea-8add-4365-aad4-d57ae5897085
+d
+java:S2326("T is not used in the method.(èÖõßşÿÿÿÿ8¿±üìú1J$9aa86788-ff76-4f5b-93ed-a5f3710bc1cc
+{
+java:S1611*"3Remove the parentheses around the "error" parameter(“ÓŠ˜üÿÿÿÿ8À±üìú1J$b95459a6-4c8d-48a9-a76a-8d824a308fb7
+^
+java:S2326<"T is not used in the method.(Œ¬8Â±üìú1J$64db8147-8bb6-4162-8507-26d70a796dc8
+d
+java:S2326D"T is not used in the method.(ÏÛšìÿÿÿÿÿ8Ã±üìú1J$e778ebbd-e242-47bd-8471-f22287cc8fbd
+t
+java:S1128	"WRemove this unused import 'org.springframework.web.HttpMediaTypeNotSupportedException'.(ĞŞ¨Å8É¹ˆòú1
+X
+java:S1128"6Remove this unused import 'java.net.ConnectException'.(éâ¿Šüÿÿÿÿ8Ê¹ˆòú1

@@ -1,0 +1,9 @@
+
+«
+java:S1488""hImmediately return this expression instead of assigning it to the temporary variable "studentGradeList".(üÔÚ¡8Œ¯îú1J$1078bd49-d593-472d-95c4-1419a401a9d0
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8“¯îú1J$a17680d9-fbcf-4fd8-8ae6-fbc97abc41d5
+
+java:S1854"GRemove this useless assignment to local variable "createdStudentGrade".(Ú–—‡úÿÿÿÿ8—¯îú1J$1e79d2ad-c6c0-42bb-ab23-ca722cbed7e4
+n
+java:S1452!"&Remove usage of generic wildcard type.(ª×•‚şÿÿÿÿ8™¯îú1J$b1a3866a-bec4-4d79-8c3e-bc5644118a94

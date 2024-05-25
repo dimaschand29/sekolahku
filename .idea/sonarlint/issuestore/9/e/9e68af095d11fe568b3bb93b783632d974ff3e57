@@ -1,0 +1,41 @@
+
+©
+java:S1488"fImmediately return this expression instead of assigning it to the temporary variable "responseEntity".(—áßÇ8îÆÒëú1J$1a099534-9b61-4def-8b08-189e104e62eb
+­
+java:S1488"jImmediately return this expression instead of assigning it to the temporary variable "responseOtherError".(Ô™ş×8ïÆÒëú1J$05d53e9c-1c81-4c97-8056-057a89932e92
+©
+java:S1488%"fImmediately return this expression instead of assigning it to the temporary variable "responseEntity".(ÒÔö8ü­âëú1J$90440053-e034-407f-b11c-81f0bc0a1a0a
+©
+java:S1488-"fImmediately return this expression instead of assigning it to the temporary variable "responseEntity".(—áßÇ8Ê¾âìú1J$cb5437fc-ea68-40b5-b9de-7c743396ec10
+­
+java:S14882"jImmediately return this expression instead of assigning it to the temporary variable "responseOtherError".(Ô™ş×8Ë¾âìú1J$142066f8-2383-48a9-8d59-71c96d2dc595
+­
+java:S1488:"jImmediately return this expression instead of assigning it to the temporary variable "responseOtherError".(Ô™ş×8Ë¾âìú1J$2ff7f2ca-60e1-4125-b91a-41eeeeb88446
+­
+java:S1488B"jImmediately return this expression instead of assigning it to the temporary variable "responseOtherError".(Ô™ş×8Ë¾âìú1J$b6c9b4a5-2429-47c6-9adc-0622a50a09b0
+­
+java:S1488N"jImmediately return this expression instead of assigning it to the temporary variable "responseOtherError".(Ô™ş×8Ë¾âìú1J$fbfd9130-e17e-457f-8e2a-3c5e73a68d41
+€
+java:S4977"=Rename "T" which hides a type parameter from the outer scope.(ÊØ¼£8ñÆÒëú1J$2cd7e985-9031-4152-bde4-239c88c88c5d
+€
+java:S4977)"=Rename "T" which hides a type parameter from the outer scope.(¶…ŸË8Í¾âìú1J$46b59143-f89a-4ab2-9d55-3b1a6ddf3ddf
+…
+java:S49777"=Rename "T" which hides a type parameter from the outer scope.(Ü²²áøÿÿÿÿ8Í¾âìú1J$2885bbe5-383b-428d-9285-f618638b8f84
+€
+java:S4977>"=Rename "T" which hides a type parameter from the outer scope.(ıÁ»”8Í¾âìú1J$036a81db-5803-4b44-a67e-08484e5e1cf0
+…
+java:S4977F"=Rename "T" which hides a type parameter from the outer scope.(†¨á‚ûÿÿÿÿ8Í¾âìú1J$ef3e4f43-1792-48d1-b122-b1c4ae4c9676
+c
+java:S2326"T is not used in the class.(‚²¥µşÿÿÿÿ8÷ÆÒëú1J$ff408631-64d8-41b7-a87f-5f7a7c1bb7bf
+_
+java:S2326)"T is not used in the method.(¶…ŸË8Ø¾âìú1J$8f12d2e8-b6be-4f0d-bce2-8b0fd459be38
+d
+java:S23267"T is not used in the method.(Ü²²áøÿÿÿÿ8Ù¾âìú1J$45ff91dc-ef07-4f1f-a626-62821bf2f8bb
+_
+java:S2326>"T is not used in the method.(ıÁ»”8Ú¾âìú1J$74d095ea-bcf1-40a6-bd62-1fed567e90e8
+d
+java:S2326F"T is not used in the method.(†¨á‚ûÿÿÿÿ8Û¾âìú1J$8aac9d7e-89c4-426c-a684-8eafb24486ee
+j
+java:S1128"HRemove this unused import 'org.springframework.dao.DataAccessException'.(·È³÷ûÿÿÿÿ8ÑÿĞíú1
+m
+java:S1068"*Remove this unused "logger" private field.(©‹½ã8‚ÇÒëú1J$81ac8979-d58a-49c2-b1f8-52770c46ae62

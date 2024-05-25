@@ -1,0 +1,29 @@
+
+–
+java:S3655C"NCall "userOpt.isPresent()" or "!userOpt.isEmpty()" before accessing the value.(Ú¨Åıÿÿÿÿ8Åî¯òú1J$b8520aab-018d-4cbf-a05b-d070e60e4e7a
+–
+java:S3655P"NCall "userOpt.isPresent()" or "!userOpt.isEmpty()" before accessing the value.(Ú¨Åıÿÿÿÿ8Æî¯òú1J$1cc083ce-5e2d-4656-9a5b-f5ec3002a68e
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8âÇ´ïú1J$fcfbb736-d9f3-427b-b5a3-6c2dbc55fb91
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8âÇ´ïú1J$a21c1a88-3cc5-4e7d-9475-be39f723cf65
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8âÇ´ïú1J$3ca9cbd6-a2d0-441b-bbb5-cd1ea7e2e6c2
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8·±òú1J$e6ec4c16-f17a-44d0-b468-34b3f90607ff
+
+java:S18547"ERemove this useless assignment to local variable "createdUserDetail".(ÃßŒüøÿÿÿÿ8åÛ¯òú1J$0d8f734b-00af-452a-9f05-22c99961b9ad
+Š
+java:S1854."BRemove this useless assignment to local variable "userNonStudent".(³ÂÍ«úÿÿÿÿ8åÇ´ïú1J$aac3b9aa-5e52-441b-aa8b-ea45a2f509ee
+~
+java:S1854(";Remove this useless assignment to local variable "roleOpt".(ÂŞÍ¶8åÇ´ïú1J$10e5bde5-8409-43b1-b46d-242aa1dbc248
+o
+java:S1481(",Remove this unused "roleOpt" local variable.(ÂŞÍ¶8èÇ´ïú1J$17cd979c-cf09-40b2-9449-88861143d87a
+ˆ
+java:S1854@"ERemove this useless assignment to local variable "userNonStudentOpt".(ÎúÄî8Ïî¯òú1J$62b10adc-0dbd-4831-8712-b6a9525a9740
+y
+java:S1481@"6Remove this unused "userNonStudentOpt" local variable.(ÎúÄî8Ğî¯òú1J$76119351-2b91-4ef8-a7ce-94bfa27572a8
+ˆ
+java:S1854M"ERemove this useless assignment to local variable "userNonStudentOpt".(ÎúÄî8Ğî¯òú1J$ea3058a9-f78e-4693-ab36-039054074bf5
+y
+java:S1481M"6Remove this unused "userNonStudentOpt" local variable.(ÎúÄî8Òî¯òú1J$9139c260-2f2e-48ce-810d-f1d3cc2d7b5f

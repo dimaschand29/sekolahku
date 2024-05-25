@@ -1,0 +1,13 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÏËïú1J$75c53b9a-317d-4fc6-b2eb-fe37e42e9556
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ĞËïú1J$f3992bd4-71a4-4292-b2bd-15ae5f1ce381
+
+java:S1854$"?Remove this useless assignment to local variable "createdRole".(¯¡£u8ÓËïú1J$5433f301-fa2e-4931-92fd-8f6e1fe04c1f
+
+java:S18541"?Remove this useless assignment to local variable "createdRole".(¯¡£u8ÕËïú1J$498da11e-ff09-474c-b350-93c9dd387084
+v
+java:S1128"3Remove this unused import 'org.example.model.User'.(”óÛÚ8×Ëïú1J$5405412f-62cd-40d2-8e3e-85553bc5c4c5
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8×Ëïú1J$c6eb2a51-e859-443c-8e59-462ea8d95baf
